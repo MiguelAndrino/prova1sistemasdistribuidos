@@ -8,7 +8,7 @@ servidor = SimpleXMLRPCServer(("localhost", 8004))
 
 servidor.register_function(
     calcular_pontos,
-    "calcular-pontos"
+    "calcular_pontos"
 )
 
 print("Servidor RPC aguardando solicitações...")
