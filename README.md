@@ -6,7 +6,7 @@ RA: dfd60aad83537faad9f7
 
 Problema da empresa:
 
-Uma loja concede 2 pontos de fidelidade por real gasto. O cliente deve solicitar ao servidor o calculo dos pontos de uma compra de R$ 120,00
+Uma loja tem um beneficio de 2 pontos de fidelidade por real gasto dentro da loja. O cliente deve solicitar ao servidor o calculo dos pontos de uma compra de R$ 120,00
 
 Arquivos
 
@@ -14,6 +14,9 @@ servidor.py
 cliente.py
 
 resultado do teste
+
+PS C:\Users\aluno\Documents\prova> python cliente.py
+Pontos recebidos: 240
 
 Explicação
 
